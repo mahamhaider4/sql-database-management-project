@@ -1,9 +1,14 @@
 # SQL Database Management Project
 
-A complete database system built for a consulting business.  
-Includes ERD, 3NF schema, normalized tables, and ten analytical SQL reports created for DePaul University’s MIS 370 course.
+A complete relational database system designed for a consulting business as part of the **Database Management (MIS 370)** course at **DePaul University**.  
+The project demonstrates database design, normalization, and SQL reporting using **Microsoft SQL Server** and **Microsoft Visio**.
 
-**Tools Used:** Microsoft SQL Server Management Studio (SSMS), Draw.io for ERD, and Lucidchart for Schema Design.
+## Tools & Technologies
+- **Microsoft SQL Server Management Studio (SSMS)** – for schema creation, data population, and SQL queries  
+- **Microsoft Visio** – for Entity-Relationship Diagram (ERD) and 3NF Relational Schema design  
+- **SQL** – to create, normalize, and query data  
+- **GitHub** – to document and version-control the project
+
 
 ## SQL Reports
 Below are 10 example reports generated from the Consulting Database project.

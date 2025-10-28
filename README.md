@@ -9,6 +9,13 @@ The project demonstrates database design, optimization, and SQL reporting using 
 - **SQL** – to create, normalize, and query data  
 - **GitHub** – to document and version-control the project
 
+## Project Deliverables
+- **Entity-Relationship Diagram (ERD)** – designed in Visio to model entities and relationships  
+- **3NF Relational Schema** – demonstrates normalization to eliminate redundancy  
+- **SQL Code** – includes DDL (table creation) and DML (data insertion) scripts  
+- **10 Analytical Reports** – queries answering business questions with joins, grouping, and filtering  
+- **Project Documentation (PDF)** – full write-up and rationale for design choices
+- 
 
 ## SQL Reports
 Below are 10 example reports generated from the Consulting Database project.

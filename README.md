@@ -1,7 +1,7 @@
 # SQL Database Management Project
 
 A complete relational database system designed for a consulting business as part of the **Database Management (MIS 370)** course at **DePaul University**.  
-The project demonstrates database design, normalization, and SQL reporting using **Microsoft SQL Server** and **Microsoft Visio**.
+The project demonstrates database design, optimization, and SQL reporting using **Microsoft SQL Server** and **Microsoft Visio**.
 
 ## Tools & Technologies
 - **Microsoft SQL Server Management Studio (SSMS)** – for schema creation, data population, and SQL queries  

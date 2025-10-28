@@ -15,7 +15,7 @@ The project demonstrates database design, optimization, and SQL reporting using 
 - **SQL Code** – includes DDL (table creation) and DML (data insertion) scripts  
 - **10 Analytical Reports** – queries answering business questions with joins, grouping, and filtering  
 - **Project Documentation (PDF)** – full write-up and rationale for design choices
-- 
+
 
 ## SQL Reports
 Below are 10 example reports generated from the Consulting Database project.

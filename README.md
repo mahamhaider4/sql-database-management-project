@@ -1,16 +1,22 @@
-# sql-database-management-project
+# SQL Database Management Project
+
+A complete database system built for a consulting business.  
+Includes ERD, 3NF schema, normalized tables, and ten analytical SQL reports created for DePaul University’s MIS 370 course.
+
+**Tools Used:** Microsoft SQL Server Management Studio (SSMS), Draw.io for ERD, and Lucidchart for Schema Design.
+
 ## SQL Reports
 Below are 10 example reports generated from the Consulting Database project.
 
 | Report | Screenshot |
 |--------|-------------|
-| Report 1: Consultants Contact Directory | ![Report 1](reports/SQL%20Project%20Query%201.png) |
-| Report 2: Clients Registry | ![Report 2](reports/SQL%20Project%20Query%202.png) |
-| Report 3: Contracts Overview | ![Report 3](reports/SQL%20Project%20Query%203.png) |
-| Report 4: Clients vs Consultants by Region | ![Report 4](reports/SQL%20Project%20Query%204.png) |
-| Report 5: Consultants by Region and Class | ![Report 5](reports/SQL%20Project%20Query%205.png) |
-| Report 6: Active vs Completed Contracts | ![Report 6](reports/SQL%20Project%20Query%206.png) |
-| Report 7: Revenue by Region | ![Report 7](reports/SQL%20Project%20Query%207.png) |
-| Report 8: Average Consultant Experience | ![Report 8](reports/SQL%20Project%20Query%208.png) |
-| Report 9: Contracts per Class | ![Report 9](reports/SQL%20Project%20Query%209.png) |
-| Report 10: Consultant-Class Assignments | ![Report 10](reports/SQL%20Project%20Query%2010.png) |
+| **Report 1:** Consultants Contact Directory | <img src="reports/SQL%20Project%20Query%201.png" width="350"> |
+| **Report 2:** Clients Registry | <img src="reports/SQL%20Project%20Query%202.png" width="350"> |
+| **Report 3:** Contracts Overview | <img src="reports/SQL%20Project%20Query%203.png" width="350"> |
+| **Report 4:** Clients vs Consultants by Region | <img src="reports/SQL%20Project%20Query%204.png" width="350"> |
+| **Report 5:** Consultants by Region and Class | <img src="reports/SQL%20Project%20Query%205.png" width="350"> |
+| **Report 6:** Active vs Completed Contracts | <img src="reports/SQL%20Project%20Query%206.png" width="350"> |
+| **Report 7:** Revenue by Region | <img src="reports/SQL%20Project%20Query%207.png" width="350"> |
+| **Report 8:** Average Consultant Experience | <img src="reports/SQL%20Project%20Query%208.png" width="350"> |
+| **Report 9:** Contracts per Class | <img src="reports/SQL%20Project%20Query%209.png" width="350"> |
+| **Report 10:** Consultant-Class Assignments | <img src="reports/SQL%20Project%20Query%2010.png" width="350"> |

@@ -32,3 +32,10 @@ Below are 10 example reports generated from the Consulting Database project.
 | **Report 8:** Average Consultant Experience | <img src="reports/SQL%20Project%20Query%208.png" width="350"> |
 | **Report 9:** Contracts per Class | <img src="reports/SQL%20Project%20Query%209.png" width="350"> |
 | **Report 10:** Consultant-Class Assignments | <img src="reports/SQL%20Project%20Query%2010.png" width="350"> |
+
+## How to Run the Project
+1. Open **Microsoft SQL Server Management Studio (SSMS)**.  
+2. Create a new database (e.g., `ConsultingDB`).  
+3. Execute the schema and data scripts from `reports/SQL_Reports.sql`.  
+4. Run the 10 report queries to reproduce the screenshots shown above.  
+5. (Optional) View the ERD and 3NF Schema diagrams in **Microsoft Visio**.

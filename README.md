@@ -15,7 +15,7 @@ The project demonstrates database design, optimization, and SQL reporting using 
 - **SQL Code** – includes DDL (table creation) and DML (data insertion) scripts  
 - **10 Analytical Reports** – queries answering business questions with joins, grouping, and filtering  
 - **Project Documentation (PDF)** – full write-up and rationale for design choices  
-  📄 [Download Final Project Report (PDF)](SQL_Database_Project.pdf)
+  📄 [Download Final Project Report (PDF)](docs/SQL_Database_Project.pdf)
 
 ---
 

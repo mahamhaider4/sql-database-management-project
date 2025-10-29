@@ -16,6 +16,8 @@ The project demonstrates database design, optimization, and SQL reporting using 
 - **10 Analytical Reports** – queries answering business questions with joins, grouping, and filtering  
 - **Project Documentation (PDF)** – full write-up and rationale for design choices
 
+---
+
 ## Entity-Relationship Diagram (ERD)
 ![ERD Diagram](diagrams/ERD_Diagram.png)
 

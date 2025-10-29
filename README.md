@@ -42,6 +42,8 @@ The Relational Diagram visually maps the logical connections between tables afte
 
 <img src="diagrams/Relational_Diagram.png" width="350">
 
+---
+
 ### Text Version
 ```sql
 CLIENT(CLIENT_ID, CLIENT_FNAME, CLIENT_LNAME, CLIENT_MINITIAL, REGION_ID, ADDRESS, CITY, STATE, ZIP_CODE, CLIENT_SSN, EMAIL, PHONE)

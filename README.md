@@ -16,6 +16,43 @@ The project demonstrates database design, optimization, and SQL reporting using 
 - **10 Analytical Reports** – queries answering business questions with joins, grouping, and filtering  
 - **Project Documentation (PDF)** – full write-up and rationale for design choices
 
+## 🧭 Entity-Relationship Diagram (ERD)
+
+This diagram illustrates the key entities and their relationships within the consulting database.
+
+![ERD Diagram](diagrams/ERD_Diagram.png)
+
+---
+
+## 🧮 Relational Diagram
+
+The Relational Diagram visually maps the logical connections between the tables after normalization.
+
+![Relational Diagram](diagrams/Relational_Diagram.png)
+
+---
+
+## 3NF Relational Schema
+
+The database was normalized to **Third Normal Form (3NF)** to eliminate redundancy and maintain referential integrity.
+
+![3NF Relational Schema Diagram](diagrams/3NF_Relational_Schema.png)
+
+### Text Version
+```sql
+CLIENT(CLIENT_ID, CLIENT_FNAME, CLIENT_LNAME, CLIENT_MINITIAL, REGION_ID, ADDRESS, CITY, STATE, ZIP_CODE, CLIENT_SSN, EMAIL, PHONE)
+
+CONTRACT(CONTRACT_ID, CLIENT_ID, CONTRACT_START, CONTRACT_END, CONTRACT_AMOUNT)
+
+REGION(REGION_ID, REGION_NAME)
+
+CONSULTANT(CONSULTANT_ID, CONSULTANT_FNAME, CONSULTANT_LNAME, CONSULTANT_MINITIAL, REGION_ID, CONSULTANT_EXPERIENCE, CONSULTANT_SSN, PHONE, EMAIL)
+
+CLASS(CLASS_ID, CLASS_NAME)
+
+CONTRACT_CONSULTANT(CONTRACT_ID, CONSULTANT_ID)
+CONTRACT_CLASS(CONTRACT_ID, CLASS_ID)
+CONSULTANT_CLASS(CONSULTANT_ID, CLASS_ID)
 
 ## SQL Reports
 Below are 10 example reports generated from the Consulting Database project.

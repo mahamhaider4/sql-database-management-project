@@ -24,20 +24,23 @@ It integrates **data modeling, normalization, SQL programming, and reporting** t
 ---
 
 ## Entity-Relationship Diagram (ERD)
-![ERD Diagram](diagrams/ERD_Diagram.png)
+This diagram illustrates the key entities and their relationships within the consulting database.
+
+<img src="diagrams/ERD_Diagram.png" width="350">
 
 ---
 
 ## 3NF Relational Schema
-
 The database was normalized to **Third Normal Form (3NF)** to eliminate redundancy and maintain referential integrity.
 
-![3NF Relational Schema Diagram](diagrams/3NF_Relational_Schema.png)
+<img src="diagrams/3NF_Relational_Schema.png" width="350">
 
 ---
 
-## 3NF Relational Schema
-![3NF Relational Schema](diagrams/3NF_Relational_Schema.png)
+## Relational Diagram
+The Relational Diagram visually maps the logical connections between tables after normalization.
+
+<img src="diagrams/Relational_Diagram.png" width="350">
 
 ### Text Version
 ```sql

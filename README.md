@@ -16,7 +16,7 @@ The project demonstrates database design, optimization, and SQL reporting using 
 - **10 Analytical Reports** – queries answering business questions with joins, grouping, and filtering  
 - **Project Documentation (PDF)** – full write-up and rationale for design choices
 
-## 🧭 Entity-Relationship Diagram (ERD)
+## Entity-Relationship Diagram (ERD)
 ![ERD Diagram](diagrams/ERD_Diagram.png)
 
 ---
@@ -29,7 +29,7 @@ The database was normalized to **Third Normal Form (3NF)** to eliminate redundan
 
 ---
 
-## 🧩 3NF Relational Schema
+## 3NF Relational Schema
 ![3NF Relational Schema](diagrams/3NF_Relational_Schema.png)
 
 ### Text Version
@@ -49,6 +49,7 @@ CONTRACT_CLASS(CONTRACT_ID, CLASS_ID)
 CONSULTANT_CLASS(CONSULTANT_ID, CLASS_ID)
 
 ```
+
 ## SQL Reports
 Below are 10 example reports generated from the Consulting Database project.
 

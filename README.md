@@ -17,18 +17,7 @@ The project demonstrates database design, optimization, and SQL reporting using 
 - **Project Documentation (PDF)** – full write-up and rationale for design choices
 
 ## 🧭 Entity-Relationship Diagram (ERD)
-
-This diagram illustrates the key entities and their relationships within the consulting database.
-
 ![ERD Diagram](diagrams/ERD_Diagram.png)
-
----
-
-## 🧮 Relational Diagram
-
-The Relational Diagram visually maps the logical connections between the tables after normalization.
-
-![Relational Diagram](diagrams/Relational_Diagram.png)
 
 ---
 
@@ -37,6 +26,11 @@ The Relational Diagram visually maps the logical connections between the tables 
 The database was normalized to **Third Normal Form (3NF)** to eliminate redundancy and maintain referential integrity.
 
 ![3NF Relational Schema Diagram](diagrams/3NF_Relational_Schema.png)
+
+---
+
+## 🧩 3NF Relational Schema
+![3NF Relational Schema](diagrams/3NF_Relational_Schema.png)
 
 ### Text Version
 ```sql
@@ -54,6 +48,7 @@ CONTRACT_CONSULTANT(CONTRACT_ID, CONSULTANT_ID)
 CONTRACT_CLASS(CONTRACT_ID, CLASS_ID)
 CONSULTANT_CLASS(CONSULTANT_ID, CLASS_ID)
 
+```
 ## SQL Reports
 Below are 10 example reports generated from the Consulting Database project.
 
@@ -69,6 +64,7 @@ Below are 10 example reports generated from the Consulting Database project.
 | **Report 8:** Average Consultant Experience | <img src="reports/SQL%20Project%20Query%208.png" width="350"> |
 | **Report 9:** Contracts per Class | <img src="reports/SQL%20Project%20Query%209.png" width="350"> |
 | **Report 10:** Consultant-Class Assignments | <img src="reports/SQL%20Project%20Query%2010.png" width="350"> |
+
 
 ## How to Run the Project
 1. Open **Microsoft SQL Server Management Studio (SSMS)**.  

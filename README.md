@@ -40,7 +40,7 @@ The database was normalized to **Third Normal Form (3NF)** to eliminate redundan
 ## Relational Diagram
 The Relational Diagram visually maps the logical connections between tables after normalization.
 
-<img src="diagrams/Relational_Diagram.png" width="350">
+<img src="diagrams/Relational_Schema.png" width="350">
 
 ---
 
